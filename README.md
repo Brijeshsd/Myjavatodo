@@ -9,6 +9,4 @@ The To-Do List application to manage task lists for users.
 
 * The user can add, filter and remove tasks.
 
-#### Result
 
-![UI](https://image.ibb.co/iDXvew/ss1.png)
